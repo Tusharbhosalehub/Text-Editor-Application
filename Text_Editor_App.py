@@ -22,6 +22,10 @@ def save_file():
 root = tk.Tk()
 root.title("Tushar's Text-Editor")
 root.geometry("800x600")
+scrollbar = tk.Scrollbar(root)
+scrollbar.pack(side="right", fill="y")
+
+  
 
 menu = tk.Menu(root)
 root.config(menu=menu)
