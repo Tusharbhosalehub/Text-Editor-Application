@@ -3,4 +3,6 @@ Text Editor Application using tkinker GUI. It can save, open and create text fil
 
 
 Various Tech Enthusiast may contribute.
-Feel free
+
+Feel free to make changes.
+
