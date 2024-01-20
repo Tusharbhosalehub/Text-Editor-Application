@@ -4,7 +4,7 @@ Text Editor Application using tkinker GUI. It can save, open and create text fil
 ## Technologies used
   Python Language
 
-Various Tech Enthusiast may contribute.
+## Various Tech Enthusiast may contribute.
 
 Feel free to make changes.
 
